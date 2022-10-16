@@ -1,0 +1,22 @@
+{
+  "etudiants": [
+    {
+      "nom": "Mederreg",
+      "prenom": "Kheir-Edinne",
+      "notes": {
+        "maths": [10.0, 12.0, 14.0],
+        "francais": [12.0, 14.0, 16.0],
+        "anglais": [8.0, 12.0]
+      }
+    },
+    {
+      "nom": "Jeham",
+      "prenom": "Laurie",
+      "notes": {
+        "maths": [7.0, 14.0, 10.0],
+        "francais": [16.0, 18.0, 16.5],
+        "anglais": [13.0, 14.0]
+      }
+    }
+  ]
+}
