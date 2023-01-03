@@ -1,4 +1,4 @@
-package PEtudiant;
+package PExercices.PExercice1.PEtudiant;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -43,8 +43,6 @@ public class Etudiant {
         for (int i = 0; i < notesMatiere.length; i++) {
             System.out.print(notesMatiere[i] + " | ");
         }
-
-
     }
 
     public double moyenne(String matiere) {

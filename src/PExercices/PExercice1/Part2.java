@@ -1,7 +1,7 @@
 package PExercices.PExercice1;
 
-import PClasse.Classe;
-import PEtudiant.Etudiant;
+import PExercices.PExercice1.PClasse.Classe;
+import PExercices.PExercice1.PEtudiant.Etudiant;
 
 public class Part2 {
     public static void Run() {

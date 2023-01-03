@@ -6,6 +6,7 @@ import java.awt.*;
 public class Exercice2 {
     public static void Run() {
         System.out.println("\n\nExercice 2 --------------------");
+        System.out.println("See GUI for results");
 
         javax.swing.SwingUtilities.invokeLater(Exercice2::createAndShowGUI);
     }

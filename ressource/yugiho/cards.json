@@ -1,0 +1,14 @@
+{
+  "Dragon Blanc aux Yeux Bleus" : {
+    "numero": "DPKB-FR001",
+    "niveau": 8,
+    "Attribut": "光 Lumière",
+    "Type": "Dragon",
+    "TypeBis":  [
+      "Normal"
+    ],
+    "atk": 3000,
+    "def": 2500,
+    "desc": "Ce dragon légendaire est un puissant moteur de destruction.\nRares sont ceux qui ont survécu à cette terrifiante créature quasiment invincible pour en parler."
+  }
+}

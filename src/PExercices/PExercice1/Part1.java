@@ -1,6 +1,6 @@
 package PExercices.PExercice1;
 
-import PEtudiant.Etudiant;
+import PExercices.PExercice1.PEtudiant.Etudiant;
 
 public class Part1 {
     public static void Run() {

@@ -1,6 +1,6 @@
-package PClasse;
+package PExercices.PExercice1.PClasse;
 
-import PEtudiant.Etudiant;
+import PExercices.PExercice1.PEtudiant.Etudiant;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
